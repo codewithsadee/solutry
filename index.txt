@@ -1,0 +1,174 @@
+Solutry - Secure IT solutions
+
+
+
+# HEADER
+
+alt = Solutry logo
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+Features
+Service
+Blog
+Newsletter
+
+Get Started
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+
+
+# HERO
+
+alt = Illustration art
+
+Secure IT solutions for a more secure environment
+
+Velit hendrerit sit auctor tempor sem. Congue mi tempor condimentum felis arcu, non cursus. Nulla pharetra porttitor sed platea arcu et leo odio.
+
+Get Started Now
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+
+
+# FEATURES
+
+How Can Help You
+
+We’re helping teams do their best work
+
+alt = Illustration icon
+
+Zero Configuration
+
+Lorem ipsum dolor sit amet, conse ctetur adipiscing elit. Sed est non feugiat sagittis.
+
+Learn More
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+Code Security
+
+Team Management
+
+Access Controlled
+
+
+
+# SERVICE
+
+alt = Illustration art
+
+Services We Offer
+
+We are here, to help your startup business
+
+<ion-icon name="checkmark-outline"></ion-icon>
+
+Cloud Databases
+Website Hosting
+Remote Desktop
+File Backup
+
+
+Our Services
+
+Best IT & technology service in your area
+
+Design & Development
+Android Apps Development
+Laravel Web Development
+React Web Development
+
+
+
+# BLOG
+
+Latest News
+
+Our latest articles & resources
+
+alt = How is technology working with new things?
+
+<ion-icon name="pricetag-outline"></ion-icon>
+Technology
+
+<ion-icon name="calendar-number-outline"></ion-icon>
+25 Feb, 2022
+
+How is technology working with new things?
+
+alt = Top 10 important tips on IT services & design
+
+Design
+
+Top 10 important tips on IT services & design
+
+alt = How our company works in different ways
+
+Startup
+
+How our company works in different ways
+
+
+
+# NEWSLETTER
+
+alt = Illustration art
+
+Subscribe Our Newsletter
+
+The latest resources, sent to your inbox weekly
+
+placeholder = Enter your email address
+
+Subscribe Now
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+
+
+# FOOTER
+
+alt = Solutry logo
+
+Lorem ipsum dolor sit amet, consectetur, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua minim.
+
+<ion-icon name="location-outline"></ion-icon>
+
+2750 Quadra Street Victoria, Canada.
+
+Quick links
+
+IT Startup
+Software
+Business
+App
+Insurance
+Property
+Big Data
+Distance Learning
+Chatbot
+Medical
+
+Contact with us
+
+<ion-icon name="mail-outline"></ion-icon>
+hello@solutry.com
+
+<ion-icon name="call-outline"></ion-icon>
++1-485-456-0102
+
+&copy; 2022 codewithsadee. All Rights Reserved
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+
+
+# GO TO TOP
+
+<ion-icon name="chevron-up-outline"></ion-icon>
