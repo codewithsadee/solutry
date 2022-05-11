@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Solutry - Travel website</h2>
+  <h2 align="center">Solutry - IT agency website</h2>
 
   Solutry is fully responsive IT agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
